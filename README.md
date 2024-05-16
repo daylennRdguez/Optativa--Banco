@@ -1,3 +1,11 @@
+Optativa React
+Grupo 403
+Estudiantes: Lesther Hdez
+             Jesus A. Hidalgo
+             Lazaro A. Jimenez
+             Daylenn M. Rdguez
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
